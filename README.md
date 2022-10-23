@@ -50,7 +50,6 @@ Output: arbitrary amount of vertical arranged pieces of input image saved as png
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ### Built With
 
 * Python 3.10.7
@@ -59,17 +58,10 @@ Output: arbitrary amount of vertical arranged pieces of input image saved as png
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
 <!-- ### Prerequisites -->
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -82,7 +74,6 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -92,8 +83,11 @@ This is an example of how to list things you need to use the software and how to
 4. Change the scale of image by necessity
 5. Finish cut by pressing "Завершить нарезку" button
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<div align="center">
+    <img src="screen1.png" alt="interface" width='80%'>
+</div>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -104,8 +98,6 @@ Your Name - [Telegram](https://t.me/leoncox) - leon.coxsw@gmail.com
 Project Link: [Manga-Slicer](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
