@@ -42,7 +42,7 @@ Input: user-selected arbitrary size image in png/jpg format
 
 Output: arbitrary amount of vertical arranged pieces of input image saved as png
 
-You can also take a look at [Manga-Slicer](https://github.com/lostie21yo/Manga-Slicer)
+You can also take a look at [Manga-Gluer](https://github.com/lostie21yo/Manga-Gluer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
