@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Manga Slicer is a simple program which designed to slice images, escpecially a long one (so-called 'scans' that used to create a Japan comics). The program is also equipped with a pin code for greater security in private use.
+Manga Slicer is a simple program which designed to slice images, escpecially a long one (so-called 'scans' that used to create a Japan comics).
 
 Input: user-selected arbitrary size image in png/jpg format
 
@@ -74,7 +74,7 @@ You can also take a look at [Manga-Gluer](https://github.com/lostie21yo/Manga-Gl
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Choose image for cutting
+1. Choose the image for cutting
 2. Choose a place for slice with slider
 3. Click the button "Обрезать"
 4. Change the scale of image by necessity
