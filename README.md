@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lostie21yo/Manga-Slicer">
+  <a href="https://github.com/kilymax/Manga-Slicer">
     <img src="ico.png" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -44,7 +44,7 @@ Output: arbitrary amount of vertical arranged pieces of input image saved as png
 
 Demo video on YouTube [here](https://www.youtube.com/watch?v=zFkFrKvdz_w&list=PL4lVqWiqXeK15HICGgnRiJTThgfftHEyt&index=4)
 
-You can also take a look at [Manga-Gluer](https://github.com/lostie21yo/Manga-Gluer)
+You can also take a look at [Manga-Gluer](https://github.com/kilymax/Manga-Gluer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +94,7 @@ You can also take a look at [Manga-Gluer](https://github.com/lostie21yo/Manga-Gl
 
 Your Name - [Telegram](https://t.me/leoncox) - leon.coxsw@gmail.com
 
-Project Link: [Manga-Slicer](https://github.com/lostie21yo/Manga-Slicer)
+Project Link: [Manga-Slicer](https://github.com/kilymax/Manga-Slicer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
